@@ -1,0 +1,9 @@
+
+
+pinecone-client
+pypdf
+langchain
+pandas 
+numpy
+sentence-transformers
+spacy
