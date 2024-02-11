@@ -1,1 +1,1 @@
-# Contexual-Chatbot
+Here is a chatbot designed to assist with querying a PDF document. It accepts questions related to the content of the document and provides the top three answers. These answers are ranked based on their cosine similarity to the question, offering the most likely solutions.
