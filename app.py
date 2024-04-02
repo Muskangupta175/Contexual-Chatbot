@@ -2,7 +2,6 @@ import streamlit as st
 from dotenv import load_dotenv
 import pickle
 from streamlit_extras.add_vertical_space import add_vertical_space
-from langchain.callbacks import get_openai_callback
 import os
 from sentence_transformers import SentenceTransformer
 import spacy
